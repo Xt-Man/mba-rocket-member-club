@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 3rem;
+
+  gap: 2rem;
+
+  background-color: var(--base-gray-200);
+
+  height: 100vh;
+  overflow: hidden;
+}
+

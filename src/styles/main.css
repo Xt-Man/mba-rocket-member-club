@@ -1,0 +1,36 @@
+.main {
+  margin-top: 2rem;
+  width: 57rem;
+  height: 29.125rem;
+  border: 1px solid black;
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1.5rem;
+}
+
+.leftcolumn {
+  border: 1px solid olive;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1rem;
+
+  width: 20rem;
+  height: 29.125rem;
+}
+
+.rightcolumn {
+  border: 1px solid violet;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 1rem;
+
+  width: 35.5rem;
+  height: 29.125rem;
+}
